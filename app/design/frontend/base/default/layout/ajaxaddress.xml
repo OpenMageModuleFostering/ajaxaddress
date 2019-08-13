@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+
+<checkout_onepage_index>
+    <reference name="checkout.onepage">
+        <action method="setTemplate"><template>ajaxaddress\checkout\onepage.phtml</template></action>
+    </reference>
+</checkout_onepage_index>
+
+</layout>

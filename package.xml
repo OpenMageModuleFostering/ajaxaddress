@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>ajaxaddress</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="https://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Ajaxaddress</summary>
+    <description>Ajaxaddress</description>
+    <notes>First Release</notes>
+    <authors><author><name>Chandan Kumar Singh</name><user>chandan8050</user><email>chandankumar8050@gmail.com</email></author></authors>
+    <date>2017-01-23</date>
+    <time>16:04:05</time>
+    <contents><target name="magecommunity"><dir name="Chandan"><dir name="Ajaxaddress"><dir name="Block"><file name="Ajaxaddress.php" hash="a6db9e49d47cb2e597079456f68d750d"/></dir><dir name="Helper"><file name="Data.php" hash="a515ff10b1b39beee37101a74bb697ad"/></dir><dir name="controllers"><file name="AjaxaddressController.php" hash="6ea6cabddf4d1670bd9e2f49970878a2"/></dir><dir name="etc"><file name="config.xml" hash="3f086070ed08c9271829125755b4bfd4"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Chandan_Ajaxaddress.xml" hash="42435c9b006dedb6b70724032cac80c6"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="ajaxaddress.xml" hash="222733e5f8e6a9209e1a868475f496ba"/></dir><dir name="template"><dir name="ajaxaddress"><dir name="checkout"><file name="onepage.phtml" hash="26d49d77e5d826fb9d0e7a0915089b55"/></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>7.1.0</max></php></required></dependencies>
+</package>

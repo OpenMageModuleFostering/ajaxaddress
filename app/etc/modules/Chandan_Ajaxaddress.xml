@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Chandan_Ajaxaddress>
+            <active>true</active>
+            <codePool>community</codePool>           
+        </Chandan_Ajaxaddress>
+    </modules>
+</config>

@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ajaxaddress",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Ajaxaddress",
+    "authors": [
+    {
+        "name": "Chandan Kumar Singh",
+        "email": "chandankumar8050@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
